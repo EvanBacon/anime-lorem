@@ -1,4 +1,6 @@
-# anime-lorem
+
+# <img src="assets/dr-stone/Senku_Ishigami_Portrait.png" height="40" align="right" /> Anime Lorem
+
 
 Anime placeholder photos
 
